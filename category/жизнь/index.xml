@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Жизнь | Academic</title>
-    <link>http://localhost:1313/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
-      <atom:link href="http://localhost:1313/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+      <atom:link href="https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>Жизнь</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Жизнь</title>
-      <link>http://localhost:1313/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+      <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
     </image>
     
     <item>
       <title>Приветствую на еженедельном отчете о моей жизни!</title>
-      <link>http://localhost:1313/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</guid>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</guid>
       <description>&lt;h2 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя&lt;/h2&gt;
 &lt;p&gt;Привет еще раз, неделя недавно началась но она уже достаточно богата на события, как хорошие, так и не очень.&lt;/p&gt;
 &lt;p&gt;В этот понедельник началась масленница и в этот же день у меня был день рождения🤯🤯🤯🤯, отпраздновать который я еще не успел, так как гнию в количестве заданий, которые задали в университете.&lt;/p&gt;

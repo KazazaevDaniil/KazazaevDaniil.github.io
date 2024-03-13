@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Учение | Academic</title>
-    <link>http://localhost:1313/tag/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/</link>
-      <atom:link href="http://localhost:1313/tag/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <atom:link href="https://example.com/tag/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>Учение</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Учение</title>
-      <link>http://localhost:1313/tag/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <link>https://example.com/tag/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/</link>
     </image>
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>http://localhost:1313/post/post1/</link>
+      <link>https://example.com/post/post1/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post1/</guid>
+      <guid>https://example.com/post/post1/</guid>
       <description>&lt;h1 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h1&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -45,7 +45,7 @@
                /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp 400w,
                /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
                /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
+               src=&#34;https://example.com/post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -76,7 +76,7 @@
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -108,7 +108,7 @@
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
