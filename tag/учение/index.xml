@@ -120,10 +120,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Локальный контроль версий&#34; srcset=&#34;
-               /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_2922a69b005f22388ab6fe14deaff683.webp 400w,
-               /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_aeb36534a4ec30a62b867034975e7c5a.webp 760w,
+               /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_e89406c60b8e2999f0d8cd40128f40e8.webp 400w,
+               /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
                /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_2922a69b005f22388ab6fe14deaff683.webp&#34;
+               src=&#34;https://example.com/post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_e89406c60b8e2999f0d8cd40128f40e8.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -151,10 +151,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Централизованный контроль версий&#34; srcset=&#34;
-               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_7363a8c03460a7840650c0fc334567e3.webp 400w,
-               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_4509d50753982d3f7642bf8d4f105333.webp 760w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_b0f920b419f9f172a134b5af500c0dcf.webp 400w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_7363a8c03460a7840650c0fc334567e3.webp&#34;
+               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_b0f920b419f9f172a134b5af500c0dcf.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -183,10 +183,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Распределённый контроль версий&#34; srcset=&#34;
-               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_7363a8c03460a7840650c0fc334567e3.webp 400w,
-               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_4509d50753982d3f7642bf8d4f105333.webp 760w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_b0f920b419f9f172a134b5af500c0dcf.webp 400w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_7363a8c03460a7840650c0fc334567e3.webp&#34;
+               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_b0f920b419f9f172a134b5af500c0dcf.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
