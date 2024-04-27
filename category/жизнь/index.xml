@@ -5,12 +5,23 @@
     <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
       <atom:link href="https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>Жизнь</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 23:25:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 23:25:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Жизнь</title>
       <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
     </image>
+    
+    <item>
+      <title>Невероятно, это же третий пост о прошедшей неделе</title>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B83/</link>
+      <pubDate>Wed, 27 Mar 2024 23:25:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B83/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя&lt;/h2&gt;
+&lt;p&gt;Приветствую! Это уже третья неделя, невероятно. На этой неделе я переделал весь этот сайт, потому что какой-то файл решил сломаться и все кануло в лету, но сейчас уже все нормально, вы ведь читаете это. А так, прошло несколько конрольных, как по мне, достаточно успешно. Скоро начнется сессия - самый тяжкий период. Пора начинать готовится.&lt;/p&gt;
+&lt;p&gt;Да, там еще пост вышел про то, как правильно делать отчеты по ГОСТу.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Что? Это же второй недельный отчет!!!</title>
