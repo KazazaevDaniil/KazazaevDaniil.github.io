@@ -5,12 +5,41 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 23:25:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 May 2024 23:25:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Чтооо, четверый пост о жизни</title>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B84/</link>
+      <pubDate>Thu, 09 May 2024 23:25:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B84/</guid>
+      <description>&lt;h2 id=&#34;что-это-было&#34;&gt;Что это было..&lt;/h2&gt;
+&lt;p&gt;Приветы!&lt;/p&gt;
+&lt;p&gt;Видале вообще, что с погодой творится в Москве? 8 мая выглядело как ядерная зима. Вообще почему снег идет, когда через месяц уже лето.&lt;/p&gt;
+&lt;p&gt;Не особо что происходило, поэтому просто хотел бы поздарвить с Днем Победы и Пасхой &amp;lt;3.&lt;/p&gt;
+&lt;p&gt;Еще можете почитать пост о языках научного программирования.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;p&gt;Программы и языки программирования играют важную роль в современной науке, так как они позволяют ученым и инженерам анализировать данные, моделировать сложные явления и проводить вычислительные эксперименты. Рассмотрим несколько примеров их использования в различных областях науки.&lt;/p&gt;
+&lt;p&gt;В физике часто используются такие языки программирования, как Python и C++, а также специализированные программные пакеты, такие как COMSOL Multiphysics для моделирования физических процессов и Mathematica или Maple для символьных вычислений. Программы типа LAMMPS или GROMACS используются в молекулярной динамике для изучения движения атомов и молекул.&lt;/p&gt;
+&lt;p&gt;В химии распространены программы для молекулярного моделирования и квантовой химии, такие как Gaussian, Autodesk Moldflow для моделирования процессов литья пластмасс, и Materials Studio для исследования свойств материалов. Программа, упомянутая Otoro, может относиться к программам типа GAMESS или NWChem, которые также используются для расчетов энергии молекул.&lt;/p&gt;
+&lt;p&gt;Python является одним из самых популярных языков, как отметил thunderer_s, благодаря своей гибкости и большому количеству научных библиотек, таких как NumPy для численных расчетов, SciPy для научных вычислений, Pandas для анализа данных, и Matplotlib для визуализации данных.&lt;/p&gt;
+&lt;p&gt;MATLAB, упомянутый thunderer_s, действительно широко используется в инженерии и прикладной математике за счет своих мощных инструментов для численного анализа и встроенных функций для решения математических задач.&lt;/p&gt;
+&lt;p&gt;R, как указал aisford, является предпочтительным выбором для статистического анализа и графики, с богатым набором пакетов для статистических тестов, классификации данных, регрессионного анализа и многого другого.&lt;/p&gt;
+&lt;p&gt;Кроме того, в биологии и биоинформатике часто используются такие инструменты, как BLAST для сравнения биологических последовательностей и PyMOL или Chimera для визуализации молекулярных структур.&lt;/p&gt;
+&lt;p&gt;В целом, выбор программы или языка программирования зависит от конкретной задачи, требований к вычислительной мощности, доступности библиотек и инструментов, а также личных предпочтений исследователя.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Невероятно, это же третий пост о прошедшей неделе</title>
@@ -520,7 +549,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-874653912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-785691423&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -530,7 +559,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-874653912&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-785691423&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
