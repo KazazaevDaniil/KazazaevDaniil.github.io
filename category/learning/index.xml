@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning | Academic</title>
+    <link>https://example.com/category/learning/</link>
+      <atom:link href="https://example.com/category/learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Learning</title>
+      <link>https://example.com/category/learning/</link>
+    </image>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;p&gt;Programs and programming languages play an important role in modern science, as they allow scientists and engineers to analyze data, model complex phenomena, and conduct computational experiments. Let&amp;rsquo;s look at some examples of their use in various fields of science.&lt;/p&gt;
+&lt;p&gt;In physics, programming languages such as Python and C++ are often used, as well as specialized software packages such as COMSOL Multiphysics for modeling physical processes and Mathematica or Maple for symbolic calculations. Programs like LAMMPS or GROMACS are used in molecular dynamics to study the motion of atoms and molecules.&lt;/p&gt;
+&lt;p&gt;In chemistry, programs for molecular modeling and quantum chemistry are common, such as Gaussian, Autodesk Moldflow for modeling plastic casting processes, and Materials Studio for studying the properties of materials. The program mentioned by Otoro may refer to programs like GAMESS or NWChem, which are also used to calculate the energy of molecules.&lt;/p&gt;
+&lt;p&gt;Python is one of the most popular languages, as noted by thunderer_s, due to its flexibility and a large number of scientific libraries such as NumPy for numerical calculations, SciPy for scientific computing, Pandas for data analysis, and Matplotlib for data visualization.&lt;/p&gt;
+&lt;p&gt;MATLAB, mentioned by thunderer_s, is indeed widely used in engineering and applied mathematics due to its powerful numerical analysis tools and built-in functions for solving mathematical problems.&lt;/p&gt;
+&lt;p&gt;R, as aisford pointed out, is the preferred choice for statistical analysis and graphics, with a rich set of packages for statistical tests, data classification, regression analysis and more.&lt;/p&gt;
+&lt;p&gt;In addition, tools such as BLAST for comparing biological sequences and PyMOL or Chimera for visualizing molecular structures are often used in biology and bioinformatics.&lt;/p&gt;
+&lt;p&gt;In general, the choice of a program or programming language depends on the specific task, the requirements for computing power, the availability of libraries and tools, as well as the personal preferences of the researcher.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparation of the GOST report</title>
+      <link>https://example.com/post/post3/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post3/</guid>
+      <description>&lt;p&gt;By compiling a practice report, the student evaluates the results of the work and draws conclusions about his qualifications, knowledge and skills acquired at the university. For a job to be accepted, it must be not only competent and meaningful.&lt;/p&gt;
+&lt;p&gt;Usually, the requirements for the design of the report are prescribed in the manuals. If there are none left at the department or in the library, refer to the regulatory documents.&lt;/p&gt;
+&lt;h1 id=&#34;structure&#34;&gt;Structure&lt;/h1&gt;
+&lt;p&gt;The report can contain up to 35-40 pages. In some cases, it is allowed to increase the volume to 45 pages. At the same time, two or three pages are allocated for the introduction. The work can have up to four sections.&lt;/p&gt;
+&lt;p&gt;According to GOST standards, the practice report should have the following structure:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;— the title page;
+— internship plan;
+— feedback from the head;
+— abstract;
+— section with abbreviations and symbols;
+— Table of contents and introduction;
+— the main part of the practical work;
+— conclusion;
+— used literature list;
+— applications and additional materials.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Applications are included in the practice as needed.&lt;/p&gt;
+&lt;h1 id=&#34;requirements-for-the-design-of-the-work&#34;&gt;Requirements for the design of the work&lt;/h1&gt;
+&lt;p&gt;The design of the work according to GOST implies not only a strict structure, but also the choice of certain fonts and their sizes, proper design of the list of references and the correct placement of graphic elements in the text.&lt;/p&gt;
+&lt;p&gt;The text part of the practical work is performed in three main ways:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;— on a computer according to GOST 2.004;
+— on a typewriter;
+— by hand – according to GOST 2.304 (we are talking about using a drawing font).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If the report is typed on a computer and printed on a printer, then you should work in Word or a similar editor. Print the report on A4 sheets. The text is typed in Times New Roman font. The headings of the sections have a font size of 16 points, the headings of the subsections have 14 points. The main text is executed in a regular font with a size of 14 points. The font in sections and subsections is bold. When making a design, you need to select a single line spacing.&lt;/p&gt;
+&lt;h1 id=&#34;sectionssubsections-of-the-report&#34;&gt;Sections/subsections of the report&lt;/h1&gt;
+&lt;p&gt;The practice report is divided into sections and subsections. If necessary, the work includes items and lists. Sections almost always start with a new sheet. They are numbered in Arabic numerals in order of priority. The name of the section is centered, and bold Times New Roman (16 shingles) is used for it.&lt;/p&gt;
+&lt;p&gt;The subsections are numbered in Arabic numerals. Uppercase letters are used for the names of sections, lowercase letters are used for subsections (with the exception of the first one). The latter are aligned to the left using the red line. Bold font (14 shingles) is used for subsections.&lt;/p&gt;
+&lt;p&gt;It is desirable that the names of the sections be as brief as possible – you cannot transfer words. The same applies to subsections. The distance between the title of the section and the heading of the subsection should be 8 mm.&lt;/p&gt;
+&lt;h1 id=&#34;page-design-margins-and-margins&#34;&gt;Page design. Margins and margins&lt;/h1&gt;
+&lt;p&gt;As mentioned earlier, the practice report is drawn up on A4 sheets. This requirement applies to all sheets in the work, including the title page. There should be no frame or similar elements on the sheets. There are enough margins: on the left – 30 mm, on the right – 10 mm, on top – 15 mm, on the bottom – 20 mm.&lt;/p&gt;
+&lt;p&gt;The pages are numbered, the countdown starts from the title page. The number is not affixed to the title.&lt;/p&gt;
+&lt;h1 id=&#34;graphics-tables-and-other-elements&#34;&gt;Graphics, tables and other elements&lt;/h1&gt;
+&lt;p&gt;The practice report may contain graphical elements, tables, and formulas.. According to GOST, images, tables and diagrams can be placed:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;— immediately after the paragraph in which the element is mentioned;
+— on the next page;
+— in the application.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The first method is most convenient: the person who starts reading the report will definitely not lose important data. He will immediately get acquainted with all the graphic elements.&lt;/p&gt;
+&lt;p&gt;Formulas are placed immediately after the mention. They are aligned in the center.&lt;/p&gt;
+&lt;p&gt;You can create a formula using the Equation Editor, and then paste it into the text of the work. Usually 14 shingles are used for the characters in the formula.&lt;/p&gt;
+&lt;h1 id=&#34;requirements-for-the-form-of-presentation-of-the-report-text&#34;&gt;Requirements for the form of presentation of the report text&lt;/h1&gt;
+&lt;p&gt;Individual characters cannot be used in the practice report:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;— diameter icon (the word &amp;quot;diameter&amp;quot; is written instead);
+— the symbol &amp;quot;-&amp;quot; to indicate a negative temperature (instead write the word &amp;quot;minus&amp;quot;);
+— indexes of standards without a registration number;
+— mathematical symbols &amp;lt;, &amp;gt; and = without numbers.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The practice report may have its own system of names or abbreviations, but only if there is an appropriate section. It should be placed in front of the table of contents.&lt;/p&gt;
+&lt;p&gt;Working on a practice report may seem hard and tedious, but it&amp;rsquo;s not as difficult as it seems. A text editor will make the task easier.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control. Git.</title>
+      <link>https://example.com/post/post1/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post1/</guid>
+      <description>&lt;h1 id=&#34;about-the-version-control-system&#34;&gt;About the version control system&lt;/h1&gt;
+&lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to revert to a specific version later. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
+&lt;p&gt;If you are a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also means in general that if you break something or lose files, you can safely fix everything. In addition to everything, you will get it all without any extra effort.&lt;/p&gt;
+&lt;h2 id=&#34;локальные-системы-контроля-версий&#34;&gt;Локальные системы контроля версий&lt;/h2&gt;
+&lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local version control systems&lt;/h2&gt;
+&lt;p&gt;Many people use copying files to a separate directory as a version control method (perhaps even a time-stamped directory, if they are smart enough). This approach is very common because of its simplicity, but it is incredibly prone to errors. You can easily forget which directory you are in and accidentally change the wrong file or copy the wrong files that you wanted.&lt;/p&gt;
+&lt;p&gt;In order to solve this problem, programmers have long ago developed local VCS with a simple database that stores records of all changes in files, thereby monitoring revisions.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Локальный контроль версий&#34; srcset=&#34;
+               /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp 400w,
+               /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
+               /post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;649&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;One of the most popular VCS was the RCS system, which is still distributed with many computers today. RCS stores sets of patches (differences between files) on disk in a special format, using which it can recreate the state of each file at a given time.&lt;/p&gt;
+&lt;h2 id=&#34;централизованные-системы-контроля-версий&#34;&gt;Централизованные системы контроля версий&lt;/h2&gt;
+&lt;p&gt;The next major problem that people face is the need to interact with other developers. In order to deal with it, centralized version Control Systems (hereinafter CVCS) were developed. Systems such as CVS, Subversion, and Perforce use a single server containing all versions of files, and a number of clients that receive files from this centralized repository. The use of CVCS has been the standard for many years.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Централизованный контроль версий&#34; srcset=&#34;
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;528&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local VCS. For example, all project developers know to a certain extent what each of them is doing. Administrators have full control over who can do what, and it is much easier to administer CVCS than to operate local databases on each client.&lt;/p&gt;
+&lt;p&gt;Despite this, this approach also has serious disadvantages. The most obvious disadvantage is a single point of failure represented by a centralized server. If this server goes down for an hour, then during that time no one will be able to use version control to save the changes they are working on, and no one will be able to share these changes with other developers. If the hard disk on which the central database is stored is damaged, and timely backups are missing, you will lose everything — the entire history of the project, not counting the single repository snapshots that were saved on local developer machines. Local VCS suffer from the same problem: when the entire project history is stored in one place, you risk losing everything.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;This is where Distributed Version Control Systems (hereinafter DVCS) come into play. In DVCS (such as Git, Mercurial, Bazaar, or Darcs), clients don&amp;rsquo;t just download a snapshot of all files (the state of the files at a certain point in time) — they completely copy the repository. In this case, if one of the servers through which the developers exchanged data dies, any client repository can be copied to another server to continue working. Each copy of the repository is a complete backup of all data.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Распределённый контроль версий&#34; srcset=&#34;
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
+               /post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;528&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Moreover, many DVCS can simultaneously interact with several remote repositories, so you can work with different groups of people using different approaches at the same time within the same project. This allows you to apply several approaches to development at once, for example, hierarchical models, which is completely impossible in centralized systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

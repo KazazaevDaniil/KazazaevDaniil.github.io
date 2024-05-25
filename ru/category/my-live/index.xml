@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Live | Academic</title>
+    <link>http://localhost:1313/ru/category/my-live/</link>
+      <atom:link href="http://localhost:1313/ru/category/my-live/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Live</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 09 May 2024 23:25:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>My Live</title>
+      <link>http://localhost:1313/ru/category/my-live/</link>
+    </image>
+    
+    <item>
+      <title>What, the fourth post about life</title>
+      <link>http://localhost:1313/ru/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B85/</link>
+      <pubDate>Thu, 09 May 2024 23:25:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B85/</guid>
+      <description>&lt;h2 id=&#34;что-это-было&#34;&gt;Что это было..&lt;/h2&gt;
+&lt;p&gt;Greetings!&lt;/p&gt;
+&lt;p&gt;Have you seen what&amp;rsquo;s going on with the weather in Moscow? May 8 looked like a nuclear winter. In general, why is it snowing when it&amp;rsquo;s already summer in a month?&lt;/p&gt;
+&lt;p&gt;Not much happened, so I would just like to congratulate you on Victory Day and Easter &amp;lt;3.&lt;/p&gt;
+&lt;p&gt;You can also read a post about scientific programming languages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

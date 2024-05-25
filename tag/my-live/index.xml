@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Live | Academic</title>
+    <link>https://example.com/tag/my-live/</link>
+      <atom:link href="https://example.com/tag/my-live/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Live</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 May 2024 23:25:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>My Live</title>
+      <link>https://example.com/tag/my-live/</link>
+    </image>
+    
+    <item>
+      <title>It&#39;s about my life again. For the fifth time</title>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B85/</link>
+      <pubDate>Thu, 16 May 2024 23:25:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B85/</guid>
+      <description>&lt;h2 id=&#34;the-fifth-week&#34;&gt;The fifth week..&lt;/h2&gt;
+&lt;p&gt;Greetings for the fifth time!&lt;/p&gt;
+&lt;p&gt;There wasn&amp;rsquo;t much going on. The second semester is almost over and exams are coming up, the schedule of which leaves much to be desired. I am gradually preparing for them, but I still need to close the rest of the subjects. The weather has returned to normal - you&amp;rsquo;re drying up outside again, because it&amp;rsquo;s stable at 20-25 degrees, which I don&amp;rsquo;t really like.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What, the fourth post about life</title>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B84/</link>
+      <pubDate>Thu, 09 May 2024 23:25:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B84/</guid>
+      <description>&lt;h2 id=&#34;что-это-было&#34;&gt;Что это было..&lt;/h2&gt;
+&lt;p&gt;Greetings!&lt;/p&gt;
+&lt;p&gt;Have you seen what&amp;rsquo;s going on with the weather in Moscow? May 8 looked like a nuclear winter. In general, why is it snowing when it&amp;rsquo;s already summer in a month?&lt;/p&gt;
+&lt;p&gt;Not much happened, so I would just like to congratulate you on Victory Day and Easter &amp;lt;3.&lt;/p&gt;
+&lt;p&gt;You can also read a post about scientific programming languages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unbelievable, this is the third post about the past week</title>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B83/</link>
+      <pubDate>Wed, 27 Mar 2024 23:25:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B83/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя&lt;/h2&gt;
+&lt;p&gt;Greetings! It&amp;rsquo;s already the third week, it&amp;rsquo;s incredible. This week I redid this whole site because some file decided to break and everything sank into oblivion, but now everything is fine, because you are reading this. And so, I passed several tests, as for me, quite successfully. The session will begin soon - the most difficult period. It&amp;rsquo;s time to start preparing.&lt;/p&gt;
+&lt;p&gt;Yes, there was also a post about how to properly make reports on GOST.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What? This is the second weekly report!!!</title>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B82/</link>
+      <pubDate>Wed, 20 Mar 2024 23:25:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B82/</guid>
+      <description>&lt;h2 id=&#34;how-was-my-week&#34;&gt;How was my week?&lt;/h2&gt;
+&lt;p&gt;Hello again! The second week has come to an end. A few things have happened. I went to the cinema for a couple of movies, it&amp;rsquo;s a fairy tale in general, you need to get out more often. It can be hard at university, but I seem to be holding on, sometimes even something turns out, it&amp;rsquo;s quite possible to be happy about it.&lt;/p&gt;
+&lt;p&gt;Have you seen the new post? Markdown is a super useful thing, I advise you to get acquainted. All my posts are written on it, so far I&amp;rsquo;m not complaining, I&amp;rsquo;m even happy with how it looks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the weekly report on my life!</title>
+      <link>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя&lt;/h2&gt;
+&lt;p&gt;Hi again, the week has recently started but it is already quite eventful, both good and not so good.&lt;/p&gt;
+&lt;p&gt;On this Monday, Carnival began and on the same day I had a birthday🤯🤯🤯, which I had not yet had time to celebrate, since I was rotting in the number of tasks that were assigned at the university.&lt;/p&gt;
+&lt;p&gt;The next day, that is, Tuesday, I got sick😁😁😁. An incredibly pleasant experience. I hope I get better after all, because this can&amp;rsquo;t go on forever.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
