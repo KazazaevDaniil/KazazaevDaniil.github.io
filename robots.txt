@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/sitemap.xml
