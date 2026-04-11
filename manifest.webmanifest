@@ -5,14 +5,14 @@
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/media/icon_hu_e196af886cfb57cd.png",
+    "src": "/KazazaevDaniil/KazazaevDaniil.github.io/media/icon_hu_e196af886cfb57cd.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/media/icon_hu_a6b4a374be1ca6e8.png",
+    "src": "/KazazaevDaniil/KazazaevDaniil.github.io/media/icon_hu_a6b4a374be1ca6e8.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/?utm_source=web_app_manifest"
+  "start_url": "/KazazaevDaniil/KazazaevDaniil.github.io/?utm_source=web_app_manifest"
 }

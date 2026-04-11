@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Wowchemy Research Group</title>
-    <link>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/tags/</link>
-      <atom:link href="https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tags/</link>
+      <atom:link href="https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/media/icon_hu_a6b4a374be1ca6e8.png</url>
+      <url>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/media/icon_hu_a6b4a374be1ca6e8.png</url>
       <title>Tags</title>
-      <link>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tree/fc76cb1ebaa67eed89c6d78450c67c0a46cb5ef1/tags/</link>
+      <link>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tags/</link>
     </image>
     
   </channel>
