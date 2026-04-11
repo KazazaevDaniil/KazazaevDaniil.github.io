@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Wowchemy Research Group</title>
-    <link>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tags/</link>
-      <atom:link href="https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kazazaevdaniil.github.io/tags/</link>
+      <atom:link href="https://kazazaevdaniil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/media/icon_hu_a6b4a374be1ca6e8.png</url>
+      <url>https://kazazaevdaniil.github.io/media/icon_hu_a6b4a374be1ca6e8.png</url>
       <title>Tags</title>
-      <link>https://github.com/KazazaevDaniil/KazazaevDaniil.github.io/tags/</link>
+      <link>https://kazazaevdaniil.github.io/tags/</link>
     </image>
     
   </channel>
