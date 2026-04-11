@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Фракталы, фракталы и ещё раз фракталы</title>
+    <link>http://localhost:1313/ru/</link>
+      <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Фракталы, фракталы и ещё раз фракталы</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_a6b4a374be1ca6e8.png</url>
+      <title>Фракталы, фракталы и ещё раз фракталы</title>
+      <link>http://localhost:1313/ru/</link>
+    </image>
+    
+  </channel>
+</rss>
