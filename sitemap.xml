@@ -10,12 +10,72 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://kazazaevdaniil.github.io/</loc>
-    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
+    <loc>https://kazazaevdaniil.github.io/post/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/post/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%822/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/post/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%821/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kazazaevdaniil.github.io/contact/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/publication-type/article/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/authors/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/publication_types/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/tag/source-themes/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/tags/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/author/%D0%BA%D0%B0%D0%B7%D0%B0%D0%B7%D0%B0%D0%B5%D0%B2-%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/author/%D0%BB%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/author/%D0%BB%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2-%D0%B5%D0%B3%D0%BE%D1%80/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/author/%D0%BC%D0%B0%D0%BB%D1%8E%D0%B3%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/publication/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/publication/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/author/%D1%81%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kazazaevdaniil.github.io/</loc>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kazazaevdaniil.github.io/people/</loc>
@@ -26,60 +86,8 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://kazazaevdaniil.github.io/post/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/post/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/post/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/publication-type/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/author/nelson-bighetti/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/publication-type/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kazazaevdaniil.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://kazazaevdaniil.github.io/author/admin/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kazazaevdaniil.github.io/publication/conference-paper/</loc>
@@ -90,10 +98,11 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://kazazaevdaniil.github.io/admin/</loc>
+    <loc>https://kazazaevdaniil.github.io/author/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://kazazaevdaniil.github.io/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://kazazaevdaniil.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kazazaevdaniil.github.io/categories/</loc>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Фракталы, фракталы и ещё раз фракталы</title>
+    <title>Проект | Фракталы, фракталы и ещё раз фракталы</title>
     <link>https://kazazaevdaniil.github.io/</link>
       <atom:link href="https://kazazaevdaniil.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Фракталы, фракталы и ещё раз фракталы</description>
+    <description>Проект</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kazazaevdaniil.github.io/media/icon_hu_a6b4a374be1ca6e8.png</url>
-      <title>Фракталы, фракталы и ещё раз фракталы</title>
+      <title>Проект</title>
       <link>https://kazazaevdaniil.github.io/</link>
     </image>
     
@@ -28,15 +28,62 @@
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Прошли второй этап проекта</title>
+      <link>https://kazazaevdaniil.github.io/post/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%822/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://kazazaevdaniil.github.io/post/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%822/</guid>
+      <description>&lt;p&gt;Завершили второй этап группового проекта о фракталах.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Второй этап проекта: алгоритмы и оптимизация DLA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Продолжаем работу над проектом «Неравновесная агрегация и фрактальные структуры». &lt;strong&gt;Второй этап завершён и выложен.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;За основу взяли модель &lt;strong&gt;DLA (Diffusion-Limited Aggregation)&lt;/strong&gt; — ключевой механизм роста фрактальных кластеров в неравновесных условиях.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Что сделали:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разработали базовый сеточный алгоритм с адаптивными радиусами старта и гибели частиц.&lt;/li&gt;
+&lt;li&gt;Внедрили &lt;strong&gt;список граничных узлов&lt;/strong&gt; — ускорение проверки прилипания до 4 раз.&lt;/li&gt;
+&lt;li&gt;Описали алгоритмы расчёта фрактальной размерности: &lt;strong&gt;метод радиуса гирации&lt;/strong&gt; и &lt;strong&gt;box-counting&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Рассмотрели модификации: вероятностное прилипание, баллистическое движение, кластер-кластерную агрегацию (DLCA).&lt;/li&gt;
+&lt;li&gt;Прописали псевдокод, структуры данных и архитектуру модулей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Вычислительная сложность&lt;/strong&gt; проанализирована, база полностью готова к программной реализации.&lt;/p&gt;
+&lt;p&gt;А ознакомиться поближе вы можете все еще во вкладке &lt;strong&gt;Публикации&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Проект про фракталы</title>
+      <link>https://kazazaevdaniil.github.io/post/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%821/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://kazazaevdaniil.github.io/post/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%821/</guid>
+      <description>&lt;p&gt;Сегодня мы начали работать над групповым проектом о фракталах.&lt;/p&gt;
+&lt;p&gt;Сегодня мы официально погрузились в мир сложных систем. Мы начинаем групповой проект, посвященный тому, как растут структуры в условиях, далеких от равновесия.&lt;/p&gt;
+&lt;p&gt;Главная цель - разобраться, почему снежинки, сажа, дендриты и даже коллоиды растут не хаотично, а подчиняясь фрактальным законам.&lt;/p&gt;
+&lt;p&gt;В разделе &lt;strong&gt;публикаций&lt;/strong&gt; вы можете ознакомиться с тем, что мы уже успели узнать.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Связь с нами</title>
       <link>https://kazazaevdaniil.github.io/contact/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://kazazaevdaniil.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>People</title>
+      <title>Проект</title>
+      <link>https://kazazaevdaniil.github.io/publication/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://kazazaevdaniil.github.io/publication/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Команда</title>
       <link>https://kazazaevdaniil.github.io/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://kazazaevdaniil.github.io/people/</guid>
@@ -49,61 +96,6 @@
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://kazazaevdaniil.github.io/tour/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://kazazaevdaniil.github.io/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://kazazaevdaniil.github.io/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://kazazaevdaniil.github.io/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://kazazaevdaniil.github.io/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://kazazaevdaniil.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://kazazaevdaniil.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://kazazaevdaniil.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://kazazaevdaniil.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
