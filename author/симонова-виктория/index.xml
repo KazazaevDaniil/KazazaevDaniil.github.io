@@ -5,7 +5,7 @@
     <link>https://kazazaevdaniil.github.io/author/%D1%81%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F/</link>
       <atom:link href="https://kazazaevdaniil.github.io/author/%D1%81%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <description>Симонова Виктория</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kazazaevdaniil.github.io/media/icon_hu_a6b4a374be1ca6e8.png</url>
       <title>Симонова Виктория</title>
@@ -14,15 +14,19 @@
     
     <item>
       <title>Проект</title>
+      <link>https://kazazaevdaniil.github.io/publication/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%822/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://kazazaevdaniil.github.io/publication/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%822/</guid>
+      <description>&lt;p&gt;Второй этап нашего группового проекта посвящен детальной разработке алгоритмов и программной реализации модели диффузионно-ограниченной агрегации (DLA). На этом этапе мы формализовали базовый сеточный алгоритм на квадратной решётке с затравкой в центре и адаптивными радиусами старта и гибели частиц (Rspawn = Rmax+2, Rkill = max(3Rmax, Rmax+10)). Для ускорения расчётов предложен список граничных узлов (свободные клетки, соседствующие с кластером) - это сокращает проверку прилипания с четырёх соседей до O(1) и даёт выигрыш в скорости до 4 раз. Описаны два метода вычисления фрактальной размерности: по радиусу гирации (инкрементальное обновление) и метод box‑counting. Рассмотрены модификации модели: вероятностное прилипание (p ∈ (0,1], позволяющее частицам проникать глубже), баллистическая агрегация (движение по прямым линиям) и кластер-кластерная агрегация (DLCA, где подвижны все частицы, фрактальная размерность ≈1,45). Разработана программная архитектура (модули DLA_Core, Visualization, FractalAnalysis, Config) и структуры данных (решётка, динамический список частиц, хеш-таблица для граничных узлов). Приведены псевдокод основных процедур и оценка вычислительной сложности. Алгоритмическая база полностью готова к непосредственной программной реализации.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Проект</title>
       <link>https://kazazaevdaniil.github.io/publication/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://kazazaevdaniil.github.io/publication/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Первый этап нашего группового проекта посвящен модели диффузионно-ограниченной агрегации (DLA) ключевому процессу образования ветвистых фрактальных структур в неравновесных условиях (сажа, дендриты, вязкие пальцы). В ней описаны основные принципы модели (случайное блуждание частиц, прилипание к кластеру), объяснена причина ветвления (экранирование, уравнение Лапласа). Рассмотрена фрактальная размерность DLA (≈1,71) и методы её определения (радиус гирации, box-counting). Приведены примеры классических фракталов. Также представлены модификации модели: химически ограниченная (RLA), баллистическая и кластер-кластерная агрегация, связь с моделью диэлектрического пробоя (DBM).&lt;/p&gt;
 </description>
     </item>
     
